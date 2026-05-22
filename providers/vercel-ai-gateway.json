@@ -1,0 +1,11 @@
+{
+  "name": "Vercel AI Gateway",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://gateway.ai.vercel.com/v1",
+  "models": [
+    "Multi-provider"
+  ],
+  "pricing": "Free tier + paid",
+  "affiliate_url": "https://vercel.com/docs/ai"
+}
