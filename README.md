@@ -87,11 +87,11 @@ llm-provider-pulse/
 
 ---
 
-## 🔌 支持的供应商（共 41 家）
+## 🔌 支持的供应商（共 45 家）
 
 > 以下为当前支持的 AI 供应商完整列表。部分链接包含推广/邀请信息，使用它们支持本项目持续维护，对您无额外费用。
 
-### API 供应商（32 家）
+### API 供应商（36 家）
 
 | # | 供应商 | 类型 | 代表模型 | 起步价 | 直达 |
 |---|--------|------|----------|--------|------|
@@ -104,29 +104,33 @@ llm-provider-pulse/
 | 7 | **Mistral** | OpenAI 兼容 | Mistral Large, Codestral | 按量计费 | [注册](https://console.mistral.ai/signup?ref=markdavis8898) |
 | 8 | **xAI** | OpenAI 兼容 | Grok-3, Grok-3 Mini | 按量计费 | [注册](https://x.ai/api?ref=markdavis8898) |
 | 9 | **SiliconFlow** | OpenAI 兼容 | DeepSeek, Qwen, GLM | 按量计费 | [注册](https://siliconflow.cn/?ref=markdavis8898) |
-| 10 | **Zhipu / GLM** | OpenAI 兼容 | GLM-5.1, GLM-4.7 | 订阅制 | [注册](https://www.bigmodel.cn/glm-coding?ic=DGRQECTZFB) |
+| 10 | **Zhipu / GLM** | OpenAI 兼容 | GLM-5.1, GLM-4.7 | 订阅制 | [注册](https://www.bigmodel.cn/invite?icode=hb%2F%2BSlVm613Mh%2F%2BTNTL%2FGgZ3c5owLmCCcMQXWcJRS8E%3D) |
 | 11 | **Together AI** | OpenAI 兼容 | Llama 3, Mixtral | 按量计费 | [注册](https://together.ai/signup?ref=markdavis8898) |
-| 12 | **DashScope** | OpenAI 兼容 | Qwen3, Qwen3-Coder | 按量计费 | [注册](https://www.aliyun.com/minisite/goods?userCode=hun0t0sf) |
+| 12 | **DashScope** | OpenAI 兼容 | Qwen3, Qwen3-Coder | 按量计费 | [注册](https://www.aliyun.com/minisite/goods?userCode=va4ma6uz) |
 | 13 | **NVIDIA NIM** | OpenAI 兼容 | Llama 3, Nemotron | 免费额度 | [注册](https://build.nvidia.com/explore/discover?ref=markdavis8898) |
 | 14 | **GitHub Models** | OpenAI 兼容 | GPT-4o, DeepSeek, Llama | 免费 | [注册](https://github.com/marketplace/models?ref=markdavis8898) |
 | 15 | **Fireworks** | OpenAI 兼容 | Llama 3, Mixtral | 按量计费 | [注册](https://fireworks.ai/signup?ref=markdavis8898) |
-| 16 | **Volcengine** | OpenAI 兼容 | Doubao, Seed | 按量计费 | [注册](https://volcengine.com/L/jmiEa1dptck/) |
-| 17 | **Qianfan** | OpenAI 兼容 | ERNIE, GLM, DeepSeek | 订阅制 | [注册](https://cloud.baidu.com/campaign/ambassador-product/index.html?ambassadorId=b00e3bb5d042440fbfaccf545e8e52f0) |
-| 18 | **Qiniu** | OpenAI 兼容 | 多模型 | 按量计费 | [注册](https://www.qiniu.com/) |
-| 19 | **Moonshot** | OpenAI 兼容 | Kimi-K2, Kimi-K2.5 | 订阅制 | [注册](https://kimi.com/code/zh) |
-| 20 | **Baichuan** | OpenAI 兼容 | Baichuan 4 | 按量计费 | [注册](https://www.baichuan-ai.com/) |
-| 21 | **Stepfun** | OpenAI 兼容 | Step-2, Step-1 | 按量计费 | [注册](https://platform.stepfun.com/) |
-| 22 | **MiniMax** | OpenAI 兼容 | MiniMax-M2.7, M2.5 | 订阅制 | [注册](https://www.minimax.com/) |
-| 23 | **Hunyuan** | OpenAI 兼容 | Hunyuan Turbo/Pro | 按量计费 | [注册](https://cloud.tencent.com/product/hunyuan) |
-| 24 | **Cloudflare AI** | OpenAI 兼容 | Workers AI, Llama | 免费额度 | [注册](https://cloudflare.com/ai/) |
-| 25 | **HuggingFace** | Inference API | 100k+ 模型 | 免费额度 | [注册](https://huggingface.co/) |
-| 26 | **LongCat** | OpenAI 兼容 | 多供应商聚合 | 按量计费 | [注册](https://longcat.ai/) |
-| 27 | **Vercel AI Gateway** | OpenAI 兼容 | 多供应商聚合 | 免费额度 | [注册](https://vercel.com/docs/ai) |
-| 28 | **Anthropic API** | Anthropic 原生 | Claude 4 Sonnet/Haiku | 按量计费 | [注册](https://anthropic.com/) |
-| 29 | **Pollinations** | OpenAI 兼容 | 多模型 | 免费 | [注册](https://pollinations.ai/) |
-| 30 | **BlazeAPI** | OpenAI 兼容 | 多模型 | 按量计费 | [注册](https://blazeapi.ai/) |
-| 31 | **LLM7** | OpenAI 兼容 | 多模型 | 按量计费 | [注册](https://llm7.com/) |
-| 32 | **BazaarLink** | OpenAI 兼容 | 多模型 | 按量计费 | [注册](https://bazaarlink.com/) |
+| 16 | **Volcengine** | OpenAI 兼容 | Doubao-Seed-2.0, DeepSeek-V4, GLM-5.1 | ¥38/月起 | [注册](https://volcengine.com/L/jAaD686YDKQ/) |
+| 17 | **Qianfan** | OpenAI 兼容 | ERNIE, GLM, DeepSeek | 订阅制 | [注册](https://cloud.baidu.com/campaign/ambassador-product/index.html?ambassadorId=749713c338ae438aa02056936e97047d) |
+| 18 | **iFlytek / 讯飞** | OpenAI 兼容 | Spark X2, Spark Pro | ¥19/月起 | [注册](https://maas.xfyun.cn/packageSubscription?inviteCode=MAAS-7F97CC35) |
+| 19 | **Lanyun / 蓝耘** | OpenAI 兼容 | GLM-5.1, DeepSeek, MiniMax | ¥49/月起 | [注册](https://console.lanyun.net/#/register?promoterCode=b804918124) |
+| 20 | **Compshare / 优云** | OpenAI 兼容 | DeepSeek-V4, GLM-5.1, Qwen3 | ¥49/月起 | [注册](https://passport.compshare.cn/register?referral_code=2MnXIUvuGePCjs9ERvQzxy) |
+| 21 | **JDCloud / 京东云** | OpenAI 兼容 | DeepSeek-V4, GLM-5, Qwen3-Coder | ¥40/月起 | [注册](https://3.cn/2-P6IXBQ) |
+| 22 | **Qiniu** | OpenAI 兼容 | 多模型 | 按量计费 | [注册](https://www.qiniu.com/) |
+| 23 | **Moonshot** | OpenAI 兼容 | Kimi-K2, Kimi-K2.5 | 订阅制 | [注册](https://kimi.com/code/zh) |
+| 24 | **Baichuan** | OpenAI 兼容 | Baichuan 4 | 按量计费 | [注册](https://www.baichuan-ai.com/) |
+| 25 | **Stepfun** | OpenAI 兼容 | Step-2, Step-1 | 按量计费 | [注册](https://platform.stepfun.com/) |
+| 26 | **MiniMax** | OpenAI 兼容 | MiniMax-M2.7, M2.5 | 订阅制 | [注册](https://platform.minimaxi.com/subscribe/token-plan?code=1vsjCEkBf1&source=img) |
+| 27 | **Hunyuan** | OpenAI 兼容 | Hunyuan Turbo/Pro | 按量计费 | [注册](https://cloud.tencent.com/product/hunyuan) |
+| 28 | **Cloudflare AI** | OpenAI 兼容 | Workers AI, Llama | 免费额度 | [注册](https://cloudflare.com/ai/) |
+| 29 | **HuggingFace** | Inference API | 100k+ 模型 | 免费额度 | [注册](https://huggingface.co/) |
+| 30 | **LongCat** | OpenAI 兼容 | 多供应商聚合 | 按量计费 | [注册](https://longcat.ai/) |
+| 31 | **Vercel AI Gateway** | OpenAI 兼容 | 多供应商聚合 | 免费额度 | [注册](https://vercel.com/docs/ai) |
+| 32 | **Anthropic API** | Anthropic 原生 | Claude 4 Sonnet/Haiku | 按量计费 | [注册](https://anthropic.com/) |
+| 33 | **Pollinations** | OpenAI 兼容 | 多模型 | 免费 | [注册](https://pollinations.ai/) |
+| 34 | **BlazeAPI** | OpenAI 兼容 | 多模型 | 按量计费 | [注册](https://blazeapi.ai/) |
+| 35 | **LLM7** | OpenAI 兼容 | 多模型 | 按量计费 | [注册](https://llm7.com/) |
+| 36 | **BazaarLink** | OpenAI 兼容 | 多模型 | 按量计费 | [注册](https://bazaarlink.com/) |
 
 ### 本地/CLI 供应商（9 家）
 
