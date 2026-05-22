@@ -1,0 +1,13 @@
+{
+  "name": "MiniMax",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.minimax.chat/v1",
+  "models": [
+    "MiniMax-M2.7",
+    "MiniMax-M2.5",
+    "MiniMax-T1"
+  ],
+  "pricing": "Subscription + Pay-as-you-go",
+  "affiliate_url": "https://www.minimax.com/"
+}
