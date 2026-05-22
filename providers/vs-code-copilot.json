@@ -1,0 +1,12 @@
+{
+  "name": "VS Code Copilot",
+  "category": "local",
+  "type": "IDE Extension",
+  "endpoint": "local",
+  "models": [
+    "GPT-4o",
+    "Claude"
+  ],
+  "pricing": "$10/month",
+  "affiliate_url": "https://github.com/features/copilot"
+}
