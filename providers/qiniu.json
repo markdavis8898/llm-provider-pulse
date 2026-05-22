@@ -1,0 +1,11 @@
+{
+  "name": "Qiniu",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://ai-qiniu.com/v1",
+  "models": [
+    "Multi-model"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://www.qiniu.com/"
+}
