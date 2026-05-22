@@ -1,0 +1,12 @@
+{
+  "name": "Anthropic API",
+  "category": "api",
+  "type": "Native Anthropic API",
+  "endpoint": "https://api.anthropic.com/v1",
+  "models": [
+    "Claude 4 Sonnet",
+    "Claude 3.5 Haiku"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://anthropic.com/"
+}
