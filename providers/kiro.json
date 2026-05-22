@@ -1,0 +1,12 @@
+{
+  "name": "Kiro",
+  "category": "local",
+  "type": "Desktop App",
+  "endpoint": "local",
+  "models": [
+    "Claude",
+    "GPT"
+  ],
+  "pricing": "Subscription",
+  "affiliate_url": "https://kiro.ai/"
+}
