@@ -1,0 +1,12 @@
+{
+  "name": "DashScope",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "models": [
+    "Qwen3",
+    "Qwen3-Coder"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://www.aliyun.com/minisite/goods?userCode=hun0t0sf"
+}
