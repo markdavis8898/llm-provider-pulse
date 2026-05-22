@@ -1,0 +1,11 @@
+{
+  "name": "Pollinations",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://text.pollinations.ai/openai",
+  "models": [
+    "Multi-model"
+  ],
+  "pricing": "Free",
+  "affiliate_url": "https://pollinations.ai/"
+}
