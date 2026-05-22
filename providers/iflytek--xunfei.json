@@ -1,0 +1,12 @@
+{
+  "name": "iFlytek / Xunfei",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://maas.xfyun.cn",
+  "models": [
+    "Spark X2",
+    "Spark Pro"
+  ],
+  "pricing": "Subscription from ¥19/mo",
+  "affiliate_url": "https://maas.xfyun.cn/packageSubscription?inviteCode=MAAS-7F97CC35"
+}
