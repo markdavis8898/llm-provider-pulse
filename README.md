@@ -95,21 +95,21 @@ llm-provider-pulse/
 
 | # | 供应商 | 类型 | 代表模型 | 起步价 | 直达 |
 |---|--------|------|----------|--------|------|
-| 1 | **Groq** | OpenAI 兼容 | Llama 3, Mixtral | 免费额度 | [注册](https://console.groq.com/login?referral=markdavis8898) |
-| 2 | **DeepSeek** | OpenAI 兼容 | DeepSeek-V4, Coder | 按量计费 | [注册](https://platform.deepseek.com/signup?ref=markdavis8898) |
+| 1 | **Groq** | OpenAI 兼容 | Llama 3, Mixtral | 免费额度 | [注册](https://console.groq.com/) |
+| 2 | **DeepSeek** | OpenAI 兼容 | DeepSeek-V4, Coder | 按量计费 | [注册](https://platform.deepseek.com/) |
 | 3 | **OpenRouter** | OpenAI 兼容 | 多供应商聚合 | 按量计费 | [注册](https://openrouter.ai/signup?ref=markdavis8898) |
 | 4 | **Cerebras** | OpenAI 兼容 | Llama 3, Llama 3.1 | 免费额度 | [注册](https://cloud.cerebras.ai/) |
 | 5 | **SambaNova** | OpenAI 兼容 | Llama 3, Llama 405B | 免费额度 | [注册](https://cloud.sambanova.ai/) |
-| 6 | **Gemini API** | OpenAI 兼容 | Gemini 2.5 Pro/Flash | 免费额度 | [注册](https://ai.google.dev/?ref=markdavis8898) |
-| 7 | **Mistral** | OpenAI 兼容 | Mistral Large, Codestral | 按量计费 | [注册](https://console.mistral.ai/signup?ref=markdavis8898) |
-| 8 | **xAI** | OpenAI 兼容 | Grok-3, Grok-3 Mini | 按量计费 | [注册](https://x.ai/api?ref=markdavis8898) |
+| 6 | **Gemini API** | OpenAI 兼容 | Gemini 2.5 Pro/Flash | 免费额度 | [注册](https://ai.google.dev/) |
+| 7 | **Mistral** | OpenAI 兼容 | Mistral Large, Codestral | 按量计费 | [注册](https://console.mistral.ai/) |
+| 8 | **xAI** | OpenAI 兼容 | Grok-3, Grok-3 Mini | 按量计费 | [注册](https://x.ai/) |
 | 9 | **SiliconFlow** | OpenAI 兼容 | DeepSeek, Qwen, GLM | 按量计费 | [注册](https://cloud.siliconflow.cn/i/bXPxKFXw) |
 | 10 | **Zhipu / GLM** | OpenAI 兼容 | GLM-5.1, GLM-4.7 | 订阅制 | [注册](https://www.bigmodel.cn/invite?icode=hb%2F%2BSlVm613Mh%2F%2BTNTL%2FGgZ3c5owLmCCcMQXWcJRS8E%3D) |
 | 11 | **Together AI** | OpenAI 兼容 | Llama 3, Mixtral | 按量计费 | [注册](https://together.ai/) |
 | 12 | **DashScope** | OpenAI 兼容 | Qwen3, Qwen3-Coder | 按量计费 | [注册](https://www.aliyun.com/minisite/goods?userCode=va4ma6uz) |
-| 13 | **NVIDIA NIM** | OpenAI 兼容 | Llama 3, Nemotron | 免费额度 | [注册](https://build.nvidia.com/explore/discover?ref=markdavis8898) |
-| 14 | **GitHub Models** | OpenAI 兼容 | GPT-4o, DeepSeek, Llama | 免费 | [注册](https://github.com/marketplace/models?ref=markdavis8898) |
-| 15 | **Fireworks** | OpenAI 兼容 | Llama 3, Mixtral | 按量计费 | [注册](https://fireworks.ai/signup?ref=markdavis8898) |
+| 13 | **NVIDIA NIM** | OpenAI 兼容 | Llama 3, Nemotron | 免费额度 | [注册](https://build.nvidia.com/) |
+| 14 | **GitHub Models** | OpenAI 兼容 | GPT-4o, DeepSeek, Llama | 免费 | [注册](https://github.com/marketplace/models) |
+| 15 | **Fireworks** | OpenAI 兼容 | Llama 3, Mixtral | 按量计费 | [注册](https://fireworks.ai/) |
 | 16 | **Volcengine** | OpenAI 兼容 | Doubao-Seed-2.0, DeepSeek-V4, GLM-5.1 | ¥38/月起 | [注册](https://volcengine.com/L/jAaD686YDKQ/) |
 | 17 | **Qianfan** | OpenAI 兼容 | ERNIE, GLM, DeepSeek | 订阅制 | [注册](https://cloud.baidu.com/campaign/ambassador-product/index.html?ambassadorId=749713c338ae438aa02056936e97047d) |
 | 18 | **iFlytek / 讯飞** | OpenAI 兼容 | Spark X2, Spark Pro | ¥19/月起 | [注册](https://maas.xfyun.cn/packageSubscription?inviteCode=MAAS-7F97CC35) |
