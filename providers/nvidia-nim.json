@@ -1,0 +1,12 @@
+{
+  "name": "NVIDIA NIM",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://integrate.api.nvidia.com/v1",
+  "models": [
+    "Llama 3",
+    "Nemotron"
+  ],
+  "pricing": "Free tier available",
+  "affiliate_url": "https://build.nvidia.com/explore/discover?ref=markdavis8898"
+}
