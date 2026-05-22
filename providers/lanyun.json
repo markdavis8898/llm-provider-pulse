@@ -1,0 +1,13 @@
+{
+  "name": "Lanyun / 蓝耘",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://console.lanyun.net",
+  "models": [
+    "GLM-5.1",
+    "DeepSeek",
+    "MiniMax"
+  ],
+  "pricing": "Subscription from ¥49/mo",
+  "affiliate_url": "https://console.lanyun.net/#/register?promoterCode=b804918124"
+}
