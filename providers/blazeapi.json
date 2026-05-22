@@ -1,0 +1,11 @@
+{
+  "name": "BlazeAPI",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.blazeapi.ai/v1",
+  "models": [
+    "Multi-model"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://blazeapi.ai/"
+}
