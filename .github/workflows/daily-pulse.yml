@@ -1,0 +1,21 @@
+name: Daily Provider Pulse
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Run daily at 06:00 UTC
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Run Health Check
+        run: bash scripts/health-check.sh
+      
+      - name: Upload Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: pulse-results
+          path: data/results/
