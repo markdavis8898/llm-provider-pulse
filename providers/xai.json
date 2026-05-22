@@ -1,0 +1,12 @@
+{
+  "name": "xAI",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.x.ai/v1",
+  "models": [
+    "Grok-3",
+    "Grok-3 Mini"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://x.ai/api?ref=markdavis8898"
+}
