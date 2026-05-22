@@ -1,0 +1,11 @@
+{
+  "name": "LLM7",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.llm7.com/v1",
+  "models": [
+    "Multi-model"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://llm7.com/"
+}
