@@ -1,0 +1,13 @@
+{
+  "name": "Fireworks",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.fireworks.ai/inference/v1",
+  "models": [
+    "Llama 3",
+    "Mixtral",
+    "DeepSeek"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://fireworks.ai/signup?ref=markdavis8898"
+}
