@@ -1,0 +1,11 @@
+{
+  "name": "Windsurf",
+  "category": "local",
+  "type": "IDE",
+  "endpoint": "local",
+  "models": [
+    "Codeium"
+  ],
+  "pricing": "Free + Premium",
+  "affiliate_url": "https://codeium.com/windsurf"
+}
