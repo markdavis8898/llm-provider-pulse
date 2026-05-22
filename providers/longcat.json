@@ -1,0 +1,11 @@
+{
+  "name": "LongCat",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.longcat.ai/v1",
+  "models": [
+    "Multi-provider"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://longcat.ai/"
+}
