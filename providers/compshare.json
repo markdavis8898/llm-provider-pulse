@@ -1,0 +1,13 @@
+{
+  "name": "Compshare / 优云",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.compshare.cn",
+  "models": [
+    "DeepSeek-V4",
+    "GLM-5.1",
+    "Qwen3"
+  ],
+  "pricing": "Subscription from ¥49/mo",
+  "affiliate_url": "https://passport.compshare.cn/register?referral_code=2MnXIUvuGePCjs9ERvQzxy"
+}
