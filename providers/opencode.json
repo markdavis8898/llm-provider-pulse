@@ -1,0 +1,12 @@
+{
+  "name": "OpenCode",
+  "category": "local",
+  "type": "CLI Tool",
+  "endpoint": "local",
+  "models": [
+    "GPT-4o",
+    "Claude"
+  ],
+  "pricing": "Free tier available",
+  "affiliate_url": "https://opencode.ai/"
+}
