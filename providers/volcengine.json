@@ -1,0 +1,12 @@
+{
+  "name": "Volcengine",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://ark.cn-beijing.volces.com/api/v3",
+  "models": [
+    "Doubao",
+    "Seed"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://volcengine.com/L/jmiEa1dptck/"
+}
