@@ -122,7 +122,7 @@ llm-provider-pulse/
 | 25 | **Stepfun** | OpenAI 兼容 | Step-2, Step-1 | 按量计费 | [注册](https://platform.stepfun.com/) |
 | 26 | **MiniMax** | OpenAI 兼容 | MiniMax-M2.7, M2.5 | 订阅制 | [注册](https://platform.minimaxi.com/subscribe/token-plan?code=1vsjCEkBf1&source=img) |
 | 27 | **Hunyuan** | OpenAI 兼容 | Hunyuan Turbo/Pro | 按量计费 | [注册](https://cloud.tencent.com/product/hunyuan) |
-| 28 | **Cloudflare AI** | OpenAI 兼容 | Workers AI, Llama | 免费额度 | [注册](https://cloudflare.com/ai/) |
+| 28 | **Cloudflare AI** | OpenAI 兼容 | Workers AI, Llama | 免费额度 | [注册](https://cloudflare.com/) |
 | 29 | **HuggingFace** | Inference API | 100k+ 模型 | 免费额度 | [注册](https://huggingface.co/) |
 | 30 | **LongCat** | OpenAI 兼容 | 多供应商聚合 | 按量计费 | [注册](https://longcat.ai/) |
 | 31 | **Vercel AI Gateway** | OpenAI 兼容 | 多供应商聚合 | 免费额度 | [注册](https://vercel.com/docs/ai) |
