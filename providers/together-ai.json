@@ -1,0 +1,13 @@
+{
+  "name": "Together AI",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.together.xyz/v1",
+  "models": [
+    "Llama 3",
+    "Mixtral",
+    "DeepSeek"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://together.ai/signup?ref=markdavis8898"
+}
