@@ -1,0 +1,12 @@
+{
+  "name": "DeepSeek",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.deepseek.com",
+  "models": [
+    "DeepSeek-V4",
+    "DeepSeek-Coder"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://platform.deepseek.com/signup?ref=markdavis8898"
+}
