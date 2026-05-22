@@ -1,0 +1,13 @@
+{
+  "name": "SiliconFlow",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.siliconflow.cn/v1",
+  "models": [
+    "DeepSeek",
+    "Qwen",
+    "GLM"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://siliconflow.cn/?ref=markdavis8898"
+}
