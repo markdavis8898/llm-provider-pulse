@@ -1,0 +1,13 @@
+{
+  "name": "JDCloud / 京东云",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://codingplan.jdcloud.com",
+  "models": [
+    "DeepSeek-V4",
+    "GLM-5",
+    "Qwen3-Coder"
+  ],
+  "pricing": "Subscription from ¥40/mo",
+  "affiliate_url": "https://3.cn/2-P6IXBQ"
+}
