@@ -1,0 +1,14 @@
+{
+  "name": "Ollama",
+  "category": "api",
+  "type": "Local endpoint",
+  "endpoint": "http://localhost:11434",
+  "models": [
+    "Llama",
+    "Mistral",
+    "DeepSeek",
+    "Qwen"
+  ],
+  "pricing": "Free (local)",
+  "affiliate_url": "https://ollama.com/"
+}
