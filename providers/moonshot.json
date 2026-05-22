@@ -1,0 +1,12 @@
+{
+  "name": "Moonshot",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.moonshot.cn/v1",
+  "models": [
+    "Kimi-K2",
+    "Kimi-K2.5"
+  ],
+  "pricing": "Subscription + Pay-as-you-go",
+  "affiliate_url": "https://kimi.com/code/zh"
+}
