@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  provider-pulse:
+    build: .
+    container_name: llm-provider-pulse
+    volumes:
+      - ./data/results:/app/data/results
+      - ./scripts/providers.json:/app/scripts/providers.json
+    command: ["bash", "scripts/health-check.sh"]
