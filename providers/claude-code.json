@@ -1,0 +1,11 @@
+{
+  "name": "Claude Code",
+  "category": "local",
+  "type": "CLI Tool",
+  "endpoint": "local",
+  "models": [
+    "Claude 4"
+  ],
+  "pricing": "Subscription",
+  "affiliate_url": "https://claude.ai/"
+}
