@@ -1,0 +1,12 @@
+{
+  "name": "Baichuan",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.baichuan-ai.com/v1",
+  "models": [
+    "Baichuan 4",
+    "Baichuan 3"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://www.baichuan-ai.com/"
+}
