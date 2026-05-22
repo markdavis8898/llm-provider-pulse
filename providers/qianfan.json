@@ -1,0 +1,13 @@
+{
+  "name": "Qianfan",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://aip.baidubce.com",
+  "models": [
+    "ERNIE",
+    "GLM",
+    "DeepSeek"
+  ],
+  "pricing": "Subscription + Pay-as-you-go",
+  "affiliate_url": "https://cloud.baidu.com/campaign/ambassador-product/index.html?ambassadorId=b00e3bb5d042440fbfaccf545e8e52f0"
+}
