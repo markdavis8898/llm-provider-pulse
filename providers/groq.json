@@ -1,0 +1,13 @@
+{
+  "name": "Groq",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.groq.com/openai/v1",
+  "models": [
+    "Llama 3",
+    "Mixtral",
+    "Gemma"
+  ],
+  "pricing": "Free tier available",
+  "affiliate_url": "https://console.groq.com/login?referral=markdavis8898"
+}
