@@ -1,5 +1,5 @@
 {
-  "count": 41,
+  "count": 45,
   "providers": [
     {
       "name": "Groq",
@@ -110,6 +110,26 @@
       "name": "MiniMax",
       "category": "api",
       "file": "minimax.json"
+    },
+    {
+      "name": "iFlytek / Xunfei",
+      "category": "api",
+      "file": "iflytek---xunfei.json"
+    },
+    {
+      "name": "Lanyun / 蓝耘",
+      "category": "api",
+      "file": "lanyun.json"
+    },
+    {
+      "name": "Compshare / 优云",
+      "category": "api",
+      "file": "compshare.json"
+    },
+    {
+      "name": "JDCloud / 京东云",
+      "category": "api",
+      "file": "jdcloud.json"
     },
     {
       "name": "Hunyuan",
