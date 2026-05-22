@@ -1,0 +1,11 @@
+{
+  "name": "OpenAI Codex",
+  "category": "local",
+  "type": "CLI Tool",
+  "endpoint": "local",
+  "models": [
+    "GPT-5"
+  ],
+  "pricing": "Subscription",
+  "affiliate_url": "https://codex.openai.com/"
+}
