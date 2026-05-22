@@ -4,9 +4,12 @@
   "type": "OpenAI-compatible",
   "endpoint": "https://ark.cn-beijing.volces.com/api/v3",
   "models": [
-    "Doubao",
-    "Seed"
+    "Doubao-Seed-2.0",
+    "DeepSeek-V4",
+    "GLM-5.1",
+    "Kimi-K2.6",
+    "MiniMax-M2.7"
   ],
-  "pricing": "Pay-as-you-go",
-  "affiliate_url": "https://volcengine.com/L/jmiEa1dptck/"
+  "pricing": "Subscription from ¥38/mo",
+  "affiliate_url": "https://volcengine.com/L/jAaD686YDKQ/"
 }
