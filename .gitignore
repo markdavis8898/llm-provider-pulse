@@ -1,0 +1,26 @@
+# LLM Provider Pulse — .gitignore
+
+# Runtime
+node_modules/
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+data/results/*
+!data/results/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
