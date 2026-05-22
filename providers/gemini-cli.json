@@ -1,0 +1,11 @@
+{
+  "name": "Gemini CLI",
+  "category": "local",
+  "type": "CLI Tool",
+  "endpoint": "local",
+  "models": [
+    "Gemini 2.5"
+  ],
+  "pricing": "Free tier available",
+  "affiliate_url": "https://cloud.google.com/ai/gemini"
+}
