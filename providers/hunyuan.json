@@ -1,0 +1,12 @@
+{
+  "name": "Hunyuan",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.hunyuan.cloud.tencent.com/v1",
+  "models": [
+    "Hunyuan Turbo",
+    "Hunyuan Pro"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://cloud.tencent.com/product/hunyuan"
+}
