@@ -1,0 +1,12 @@
+{
+  "name": "SambaNova",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.sambanova.ai/v1",
+  "models": [
+    "Llama 3",
+    "Llama 405B"
+  ],
+  "pricing": "Free tier available",
+  "affiliate_url": "https://cloud.sambanova.ai/"
+}
