@@ -1,0 +1,13 @@
+{
+  "name": "Mistral",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.mistral.ai/v1",
+  "models": [
+    "Mistral Large",
+    "Mistral Small",
+    "Codestral"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://console.mistral.ai/signup?ref=markdavis8898"
+}
