@@ -1,0 +1,11 @@
+{
+  "name": "OpenRouter",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://openrouter.ai/api/v1",
+  "models": [
+    "Multi-provider"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://openrouter.ai/signup?ref=markdavis8898"
+}
