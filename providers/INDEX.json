@@ -1,0 +1,210 @@
+{
+  "count": 41,
+  "providers": [
+    {
+      "name": "Groq",
+      "category": "api",
+      "file": "groq.json"
+    },
+    {
+      "name": "DeepSeek",
+      "category": "api",
+      "file": "deepseek.json"
+    },
+    {
+      "name": "OpenRouter",
+      "category": "api",
+      "file": "openrouter.json"
+    },
+    {
+      "name": "Cerebras",
+      "category": "api",
+      "file": "cerebras.json"
+    },
+    {
+      "name": "SambaNova",
+      "category": "api",
+      "file": "sambanova.json"
+    },
+    {
+      "name": "Gemini API",
+      "category": "api",
+      "file": "gemini-api.json"
+    },
+    {
+      "name": "Mistral",
+      "category": "api",
+      "file": "mistral.json"
+    },
+    {
+      "name": "xAI",
+      "category": "api",
+      "file": "xai.json"
+    },
+    {
+      "name": "SiliconFlow",
+      "category": "api",
+      "file": "siliconflow.json"
+    },
+    {
+      "name": "Zhipu / GLM",
+      "category": "api",
+      "file": "zhipu---glm.json"
+    },
+    {
+      "name": "Together AI",
+      "category": "api",
+      "file": "together-ai.json"
+    },
+    {
+      "name": "DashScope",
+      "category": "api",
+      "file": "dashscope.json"
+    },
+    {
+      "name": "NVIDIA NIM",
+      "category": "api",
+      "file": "nvidia-nim.json"
+    },
+    {
+      "name": "GitHub Models",
+      "category": "api",
+      "file": "github-models.json"
+    },
+    {
+      "name": "Fireworks",
+      "category": "api",
+      "file": "fireworks.json"
+    },
+    {
+      "name": "Volcengine",
+      "category": "api",
+      "file": "volcengine.json"
+    },
+    {
+      "name": "Qianfan",
+      "category": "api",
+      "file": "qianfan.json"
+    },
+    {
+      "name": "Qiniu",
+      "category": "api",
+      "file": "qiniu.json"
+    },
+    {
+      "name": "Moonshot",
+      "category": "api",
+      "file": "moonshot.json"
+    },
+    {
+      "name": "Baichuan",
+      "category": "api",
+      "file": "baichuan.json"
+    },
+    {
+      "name": "Stepfun",
+      "category": "api",
+      "file": "stepfun.json"
+    },
+    {
+      "name": "MiniMax",
+      "category": "api",
+      "file": "minimax.json"
+    },
+    {
+      "name": "Hunyuan",
+      "category": "api",
+      "file": "hunyuan.json"
+    },
+    {
+      "name": "Cloudflare AI",
+      "category": "api",
+      "file": "cloudflare-ai.json"
+    },
+    {
+      "name": "HuggingFace",
+      "category": "api",
+      "file": "huggingface.json"
+    },
+    {
+      "name": "LongCat",
+      "category": "api",
+      "file": "longcat.json"
+    },
+    {
+      "name": "Vercel AI Gateway",
+      "category": "api",
+      "file": "vercel-ai-gateway.json"
+    },
+    {
+      "name": "Anthropic API",
+      "category": "api",
+      "file": "anthropic-api.json"
+    },
+    {
+      "name": "Ollama",
+      "category": "api",
+      "file": "ollama.json"
+    },
+    {
+      "name": "Claude Desktop",
+      "category": "local",
+      "file": "claude-desktop.json"
+    },
+    {
+      "name": "Claude Code",
+      "category": "local",
+      "file": "claude-code.json"
+    },
+    {
+      "name": "Kiro",
+      "category": "local",
+      "file": "kiro.json"
+    },
+    {
+      "name": "Windsurf",
+      "category": "local",
+      "file": "windsurf.json"
+    },
+    {
+      "name": "OpenCode",
+      "category": "local",
+      "file": "opencode.json"
+    },
+    {
+      "name": "VS Code Copilot",
+      "category": "local",
+      "file": "vs-code-copilot.json"
+    },
+    {
+      "name": "OpenAI Codex",
+      "category": "local",
+      "file": "openai-codex.json"
+    },
+    {
+      "name": "Gemini CLI",
+      "category": "local",
+      "file": "gemini-cli.json"
+    },
+    {
+      "name": "Pollinations",
+      "category": "api",
+      "file": "pollinations.json"
+    },
+    {
+      "name": "BlazeAPI",
+      "category": "api",
+      "file": "blazeapi.json"
+    },
+    {
+      "name": "LLM7",
+      "category": "api",
+      "file": "llm7.json"
+    },
+    {
+      "name": "BazaarLink",
+      "category": "api",
+      "file": "bazaarlink.json"
+    }
+  ]
+}
