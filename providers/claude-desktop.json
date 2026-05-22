@@ -1,0 +1,12 @@
+{
+  "name": "Claude Desktop",
+  "category": "local",
+  "type": "Desktop App",
+  "endpoint": "local",
+  "models": [
+    "Claude 4 Sonnet",
+    "Claude 3.5"
+  ],
+  "pricing": "Subscription (Pro/Max)",
+  "affiliate_url": "https://claude.ai/"
+}
