@@ -1,0 +1,12 @@
+{
+  "name": "Stepfun",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.stepfun.com/v1",
+  "models": [
+    "Step-2",
+    "Step-1"
+  ],
+  "pricing": "Pay-as-you-go",
+  "affiliate_url": "https://platform.stepfun.com/"
+}
