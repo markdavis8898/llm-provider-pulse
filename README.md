@@ -116,12 +116,12 @@ llm-provider-pulse/
 | 19 | **Lanyun / 蓝耘** | OpenAI 兼容 | GLM-5.1, DeepSeek, MiniMax | ¥49/月起 | [注册](https://console.lanyun.net/#/register?promoterCode=b804918124) |
 | 20 | **Compshare / 优云** | OpenAI 兼容 | DeepSeek-V4, GLM-5.1, Qwen3 | ¥49/月起 | [注册](https://passport.compshare.cn/register?referral_code=2MnXIUvuGePCjs9ERvQzxy) |
 | 21 | **JDCloud / 京东云** | OpenAI 兼容 | DeepSeek-V4, GLM-5, Qwen3-Coder | ¥40/月起 | [注册](https://3.cn/2-P6IXBQ) |
-| 22 | **Qiniu** | OpenAI 兼容 | 多模型 | 按量计费 | [注册](https://www.qiniu.com/) |
+| 22 | **Qiniu** | OpenAI 兼容 | 多模型 | 按量计费 | [注册](https://s.qiniu.com/neyU3i) |
 | 23 | **Moonshot** | OpenAI 兼容 | Kimi-K2, Kimi-K2.5 | 订阅制 | [注册](https://kimi.com/code/zh) |
 | 24 | **Baichuan** | OpenAI 兼容 | Baichuan 4 | 按量计费 | [注册](https://www.baichuan-ai.com/) |
 | 25 | **Stepfun** | OpenAI 兼容 | Step-2, Step-1 | 按量计费 | [注册](https://platform.stepfun.com/) |
 | 26 | **MiniMax** | OpenAI 兼容 | MiniMax-M2.7, M2.5 | 订阅制 | [注册](https://platform.minimaxi.com/subscribe/token-plan?code=1vsjCEkBf1&source=img) |
-| 27 | **Hunyuan** | OpenAI 兼容 | Hunyuan Turbo/Pro | 按量计费 | [注册](https://cloud.tencent.com/product/hunyuan) |
+| 27 | **Hunyuan** | OpenAI 兼容 | Hunyuan Turbo/Pro | 按量计费 | [注册](https://curl.qcloud.com/YyIieB2d) |
 | 28 | **Cloudflare AI** | OpenAI 兼容 | Workers AI, Llama | 免费额度 | [注册](https://cloudflare.com/) |
 | 29 | **HuggingFace** | Inference API | 100k+ 模型 | 免费额度 | [注册](https://huggingface.co/) |
 | 30 | **LongCat** | OpenAI 兼容 | 多供应商聚合 | 按量计费 | [注册](https://longcat.ai/) |
