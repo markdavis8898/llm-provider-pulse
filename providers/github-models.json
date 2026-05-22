@@ -1,0 +1,13 @@
+{
+  "name": "GitHub Models",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://models.inference.ai.azure.com",
+  "models": [
+    "GPT-4o",
+    "DeepSeek",
+    "Llama"
+  ],
+  "pricing": "Free with GitHub account",
+  "affiliate_url": "https://github.com/marketplace/models?ref=markdavis8898"
+}
