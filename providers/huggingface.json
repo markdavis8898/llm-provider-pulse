@@ -1,0 +1,11 @@
+{
+  "name": "HuggingFace",
+  "category": "api",
+  "type": "Inference API",
+  "endpoint": "https://api-inference.huggingface.co",
+  "models": [
+    "100k+ models"
+  ],
+  "pricing": "Free tier + paid",
+  "affiliate_url": "https://huggingface.co/"
+}
