@@ -1,0 +1,12 @@
+{
+  "name": "Gemini API",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://generativelanguage.googleapis.com/v1beta",
+  "models": [
+    "Gemini 2.5 Pro",
+    "Gemini 2.5 Flash"
+  ],
+  "pricing": "Free tier + paid",
+  "affiliate_url": "https://ai.google.dev/?ref=markdavis8898"
+}
