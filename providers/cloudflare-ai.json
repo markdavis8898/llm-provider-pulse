@@ -1,0 +1,13 @@
+{
+  "name": "Cloudflare AI",
+  "category": "api",
+  "type": "OpenAI-compatible",
+  "endpoint": "https://api.cloudflare.com/client/v4/ai",
+  "models": [
+    "Workers AI",
+    "Llama",
+    "Qwen"
+  ],
+  "pricing": "Free tier + paid",
+  "affiliate_url": "https://cloudflare.com/ai/"
+}
